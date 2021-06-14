@@ -1,0 +1,16 @@
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\WindowsForms_SWA_Assignment2.exe.config
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\WindowsForms_SWA_Assignment2.exe
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\WindowsForms_SWA_Assignment2.pdb
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\WindowsForms_SWA_Assignment2.Form1.resources
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\WindowsForms_SWA_Assignment2.Properties.Resources.resources
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\WindowsForms_SWA_Assignment2.exe
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\WindowsForms_SWA_Assignment2.pdb
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\ClassLibrary.dll
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\Client.exe
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\ClassLibrary.pdb
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\Client.pdb
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\bin\Debug\Client.exe.config
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\WindowsForms_SWA_Assignment2\obj\Debug\Server.csproj.CopyComplete

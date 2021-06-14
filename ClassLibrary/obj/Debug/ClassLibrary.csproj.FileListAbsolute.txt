@@ -1,0 +1,6 @@
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\PC_1\source\repos\WindowsForms_SWA_Assignment2\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
