@@ -2,5 +2,5 @@
 C#_Winform TCP/IP Client and Server 
 
 
-This is my C# class assignment that use Winform to make a program between Client and Server can communicate (TCP/IP) to each other 
+This is my C# class assignment that use Winform to make a program that Client and Server can communicate (TCP/IP) to each other 
 and also have 2 functions are `drawing` and `guessing` from the drawed picture.
